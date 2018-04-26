@@ -1,0 +1,146 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nyt/global/}
+    \entry{Scherz}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=6dbb2bc3236d7777e97e8b6bf3ad14fe}{%
+           family={Feynman},
+           familyi={F\bibinitperiod},
+           given={Richard\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Piper}%
+      }
+      \strng{namehash}{6dbb2bc3236d7777e97e8b6bf3ad14fe}
+      \strng{fullhash}{6dbb2bc3236d7777e97e8b6bf3ad14fe}
+      \strng{authornamehash}{6dbb2bc3236d7777e97e8b6bf3ad14fe}
+      \strng{authorfullhash}{6dbb2bc3236d7777e97e8b6bf3ad14fe}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{16}
+      \field{subtitle}{Abenteuer eines neugierigen Physikers}
+      \field{title}{Sie belieben wohl zu scherzen, Mr. Feynman!}
+      \field{year}{1996}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Lessing}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=15ec63bb2f230b89f03866c259a06503}{%
+           family={Lessing},
+           familyi={L\bibinitperiod},
+           given={Gotthold\bibnamedelima Ephraim},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=9474b09ab9890d5cd285abbdac5c6227}{%
+           family={Holzinger},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CreateSpace Independent Publishing Platform}%
+      }
+      \strng{namehash}{15ec63bb2f230b89f03866c259a06503}
+      \strng{fullhash}{15ec63bb2f230b89f03866c259a06503}
+      \strng{authornamehash}{15ec63bb2f230b89f03866c259a06503}
+      \strng{authorfullhash}{15ec63bb2f230b89f03866c259a06503}
+      \strng{editornamehash}{9474b09ab9890d5cd285abbdac5c6227}
+      \strng{editorfullhash}{9474b09ab9890d5cd285abbdac5c6227}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{27}
+      \field{edition}{3}
+      \field{month}{2}
+      \field{origyear}{1771}
+      \field{title}{Gedichte}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2017}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{origdateera}{ce}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://static.zeno.org/ebooks/Lessing,_Gotthold_Ephraim_-_Gedichte_-_Zeno.org_ISBN_9783843047753.epub
+      \endverb
+    \endentry
+    \entry{Perte}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c65e5d9488abcae352e005a8afbf7f44}{%
+           family={Perte},
+           familyi={P\bibinitperiod},
+           given={Ex},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{c65e5d9488abcae352e005a8afbf7f44}
+      \strng{fullhash}{c65e5d9488abcae352e005a8afbf7f44}
+      \strng{authornamehash}{c65e5d9488abcae352e005a8afbf7f44}
+      \strng{authorfullhash}{c65e5d9488abcae352e005a8afbf7f44}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{day}{25}
+      \field{entrysubtype}{interview}
+      \field{month}{7}
+      \field{note}{persönliches Gespräch mit dem Verfasser, Transkipt in \vref{InterviewMitExPerte}}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Vorwort}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=719cef83760a2633ab00d5f234432c26}{%
+           family={Weigl},
+           familyi={W\bibinitperiod},
+           given={Huberta},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{719cef83760a2633ab00d5f234432c26}
+      \strng{fullhash}{719cef83760a2633ab00d5f234432c26}
+      \strng{authornamehash}{719cef83760a2633ab00d5f234432c26}
+      \strng{authorfullhash}{719cef83760a2633ab00d5f234432c26}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Vorwort}
+      \field{urlday}{3}
+      \field{urlmonth}{2}
+      \field{urlyear}{2017}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://www.ahs-vwa.at/pluginfile.php/31/mod_data/content/1315/02-VWA-Vorwort.pdf
+      \endverb
+    \endentry
+  \endsortlist
+  \missing{Dynamit}
+\endrefsection
+\endinput
+

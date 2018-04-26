@@ -1,0 +1,11 @@
+{
+  "projectPath": "/Users/lorenz.brandstaetter/Documents/VWA/vwa-workspace/l.brandstaetter/vwa",
+  "title": "LaTeX-Plus Project",
+  "root": "document.tex",
+  "program": "pdflatex",
+  "latexmkOptions": "-bibtex -pdf -shell-escape",
+  "output": ".latex",
+  "openOutput": "true",
+  "postAction": "link",
+  "postPath": ""
+}

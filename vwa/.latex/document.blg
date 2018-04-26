@@ -1,0 +1,21 @@
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is '.latex/document.blg'
+[35] biber-darwin:303> INFO - === Thu Apr 26, 2018, 16:32:38
+[55] Biber.pm:359> INFO - Reading '.latex/document.bcf'
+[152] Biber.pm:835> INFO - Found 5 citekeys in bib section 0
+[171] Biber.pm:3670> INFO - Processing section 0
+[184] Biber.pm:3840> INFO - Looking for bibtex format file 'quellen.bib' for section 0
+[192] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[201] bibtex.pm:1292> INFO - Found BibTeX data source 'quellen.bib'
+[215] Utils.pm:164> WARN - I didn't find a database entry for 'Dynamit' (section 0)
+[226] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[227] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[227] Biber.pm:3499> INFO - Sorting list 'shorthand/global/' of type 'list' with scheme 'shorthand' and locale 'de-AT'
+[227] Biber.pm:3505> INFO - No sort tailoring available for locale 'de-AT'
+[237] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[237] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[237] Biber.pm:3499> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'de-AT'
+[237] Biber.pm:3505> INFO - No sort tailoring available for locale 'de-AT'
+[241] bbl.pm:608> INFO - Writing '.latex/document.bbl' with encoding 'UTF-8'
+[241] bbl.pm:712> INFO - Output to .latex/document.bbl
+[242] Biber.pm:109> INFO - WARNINGS: 1
