@@ -1,3 +1,3 @@
 # VWA
 
-Servus du oaschloch!
+Servus!
